@@ -12,7 +12,7 @@ public class JavaProject {
 		int i=0,x=0;
 		while(i<value.length())
 		{
-			if(value.charAt(i)==' ')
+			if(value.charAt(i)==' ')//count the spaces
 			{
 				++x;
 			}
